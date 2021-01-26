@@ -18,5 +18,5 @@ If Hour(Now()) > dayb Then
 else
     shell.Run "setBrightnessToValue.bat 20"       
 End If 
-wscript.sleep 1800000 '30 min 
+wscript.sleep 3600000 '60 min 
 wend
