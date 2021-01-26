@@ -1,2 +1,2 @@
 # vbs_scripts
-VBS scripts
+VBS & BAT scripts collection
